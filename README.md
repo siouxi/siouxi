@@ -9,7 +9,7 @@ Hello! I'm **Nicolás Aranguren García** 🎓, a Statistics student at the Nati
 
 ## Interests 🌟
 
-- **Data Science** 📊🔍Bir
+- **Data Science** 📊🔍
 - **Artificial Intelligence** 🤖💡
 - **Business Intelligence** 📈📊
 
@@ -21,6 +21,12 @@ Hello! I'm **Nicolás Aranguren García** 🎓, a Statistics student at the Nati
 ![R](https://img.shields.io/badge/%F0%9F%93%8AR-EE4266?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/%F0%9F%93%85%20SQL-2A1E5C?style=for-the-badge)
 ![Numpy](https://img.shields.io/badge/%F0%9F%94%A2NumPy-0E131F?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/%F0%9F%90%BCPandas-%23FF5733%20?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/%F0%9F%93%8A%20Matplotlib-%23%232E86C1?style=for-the-badge)
+![Pytorch](https://img.shields.io/badge/%F0%9F%94%A5Pytorch-%23EE4C2C?style=for-the-badge)
+
+
+
 
 
 <!--  📉 Tableau  📊 Power BI 🤖 TensorFlow 🧠 Scikit-learn 📊 Pandas 📈 Matplotlib -->
