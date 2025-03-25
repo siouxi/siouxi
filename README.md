@@ -9,7 +9,7 @@ Hello! I'm **Nicolás Aranguren García** 🎓, a Statistics student at the Nati
 
 ## Interests 🌟
 
-- **Data Science** 📊🔍
+- **Data Science** 📊🔍Bir
 - **Artificial Intelligence** 🤖💡
 - **Business Intelligence** 📈📊
 
@@ -27,17 +27,7 @@ Hello! I'm **Nicolás Aranguren García** 🎓, a Statistics student at the Nati
 
 ## Pinned Repositories ⭐📁
 
-[![Proyecto 1](https://via.placeholder.com/150)](https://github.com/usuario/proyecto1)
-[![Proyecto 2](https://via.placeholder.com/150)](https://github.com/usuario/proyecto2)
-[![Proyecto 3](https://via.placeholder.com/150)](https://github.com/usuario/proyecto3)
-[![Proyecto 1](https://via.placeholder.com/150)](https://github.com/usuario/proyecto1)
-[![Proyecto 2](https://via.placeholder.com/150)](https://github.com/usuario/proyecto2)
-[![Proyecto 3](https://via.placeholder.com/150)](https://github.com/usuario/proyecto3)
-[![Proyecto 3](https://via.placeholder.com/150)](https://github.com/usuario/proyecto3)
-[![Proyecto 1](https://via.placeholder.com/150)](https://github.com/usuario/proyecto1)
-[![Proyecto 2](https://via.placeholder.com/150)](https://github.com/usuario/proyecto2)
-[![Proyecto 3](https://via.placeholder.com/150)](https://github.com/usuario/proyecto3)
-
+[![EDA_BirdCLEF25](https://via.placeholder.com/150)]([https://github.com/usuario/proyecto1](https://github.com/siouxi/EDA_BirdCLEF25))
 
 ## Contact 📬🌐
 
