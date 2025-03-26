@@ -3,7 +3,7 @@
 
 ## About Me 👋✨
 
-Hello! I'm **Nicolás Aranguren García** 🎓, a Statistics student at the National University of Colombia 🇨🇴. I have a strong passion for **Data Science** 📊, **Artificial Intelligence** 🤖, and **Business Intelligence** 📈. I’m always looking for ways to apply my statistical knowledge to solve real-world problems 🔍.
+Hello! I'm **Nicolás Aranguren García** 🎓, a Statistics student at the National University of Colombia 🇨🇴. I have a strong passion for **Data Science** 📊, **Artificial Intelligence** 🤖, and **Neuroscience** 🧠, I’m always looking for ways to apply my statistical knowledge to solve real-world problems 🔍.
 
 ---
 
@@ -11,7 +11,7 @@ Hello! I'm **Nicolás Aranguren García** 🎓, a Statistics student at the Nati
 
 - **Data Science** 📊🔍
 - **Artificial Intelligence** 🤖💡
-- **Business Intelligence** 📈📊
+- **Neuroscience** 🧠🔬
 
 ---
 
