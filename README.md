@@ -35,6 +35,7 @@ Hello! I'm **Nicolás Aranguren García** 🎓, a Statistics student at the Nati
 
 [![EDA_BirdCLEF25](PortadaBirdClef.png)](https://github.com/siouxi/EDA_BirdCLEF25)
 [![BlueCradle](BlueCrandlePortada.png)](https://github.com/siouxi/BlueCradle)
+[![Gliara](PGliara.png)](https://github.com/siouxi/gliara)
 
 ## Contact 📬🌐
 
