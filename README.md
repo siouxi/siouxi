@@ -12,6 +12,14 @@ Hello! I'm **Nicolás Aranguren García** 🎓, a Statistics student at the Nati
 - **Data Science** 📊🔍
 - **Artificial Intelligence** 🤖💡
 - **Neuroscience** 🧠🔬
+- **Machine Learning** 💻🧠 
+- **Big Data** 📈☁️
+- **Bioinformatics** 🧬📊
+- **Actuarial Science** 🔢⚖️ 
+- **Risk Management** ⚠️📊 
+- **Statistics** 📈📉 
+- **Financial Modeling** 💲📈 
+
 
 ---
 
@@ -34,8 +42,8 @@ Hello! I'm **Nicolás Aranguren García** 🎓, a Statistics student at the Nati
 ## Pinned Repositories ⭐📁
 
 [![EDA_BirdCLEF25](PortadaBirdClef.gif)](https://github.com/siouxi/EDA_BirdCLEF25)
-[![BlueCradle](BlueCrandlePortada.png)](https://github.com/siouxi/BlueCradle)
-[![Gliara](PGliara.png)](https://github.com/siouxi/gliara)
+[![BlueCradle](BlueCradlePortada.gif)](https://github.com/siouxi/BlueCradle)
+[![Gliara](PGliara.gif)](https://github.com/siouxi/gliara)
 
 ## Contact 📬🌐
 
