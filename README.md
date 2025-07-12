@@ -40,7 +40,7 @@ Hello! I'm **Nicolás Aranguren García** 🎓, a Statistics student at the Nati
 ## Contact 📬🌐
 
 You can find me on ![Linkedin](https://img.shields.io/badge/%F0%9F%A4%9DLinkedin-blue?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fminicotina%2F)
- or on my ![Instagram](https://img.shields.io/badge/%F0%9F%93%B8%20Instagram-%23E1306C?style=for-the-badge&link=https%3A%2F%2Fwww.instagram.com%2Fnarangureen%2F)
+ or on my ![Instagram](https://img.shields.io/badge/%F0%9F%93%B8%20Instagram-%23E1306C?style=for-the-badge&link=https%3A%2F%2Fwww.instagram.com%2Fminicotina%2F)
 . I’d love to connect! 🤝✨
 
 ---
