@@ -1,58 +1,53 @@
-
 ![Cover](portadita.jpg)
 
-## About Me 👋✨
+## About Me
 
-Hello! I'm **Nicolás Aranguren García** 🎓, a Statistics student at the National University of Colombia 🇨🇴. I have a strong passion for **Data Science** 📊, **Artificial Intelligence** 🤖, and **Neuroscience** 🧠, I’m always looking for ways to apply my statistical knowledge to solve real-world problems 🔍.
-
----
-
-## Interests 🌟
-
-- **Data Science** 📊🔍
-- **Artificial Intelligence** 🤖💡
-- **Neuroscience** 🧠🔬
-- **Machine Learning** 💻🧠 
-- **Big Data** 📈☁️
-- **Bioinformatics** 🧬📊
-- **Actuarial Science** 🔢⚖️ 
-- **Risk Management** ⚠️📊 
-- **Statistics** 📈📉 
-- **Financial Modeling** 💲📈 
-
+Hello, I'm **Nicolás Aranguren García**, a Statistics student at the National University of Colombia. I’m deeply interested in **Data Science**, **Artificial Intelligence**, and **Neuroscience**, and I’m consistently looking for ways to apply statistical thinking to real-world problems.
 
 ---
 
-## Technologies I Use 🛠️💻
+## Interests
 
-![Python](https://img.shields.io/badge/%F0%9F%90%8DPython-2A6041?style=for-the-badge)
-![R](https://img.shields.io/badge/%F0%9F%93%8AR-EE4266?style=for-the-badge)
-![SQL](https://img.shields.io/badge/%F0%9F%93%85%20SQL-2A1E5C?style=for-the-badge)
-![Numpy](https://img.shields.io/badge/%F0%9F%94%A2NumPy-0E131F?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/%F0%9F%90%BCPandas-%23FF5733%20?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/%F0%9F%93%8A%20Matplotlib-%23%232E86C1?style=for-the-badge)
-![Pytorch](https://img.shields.io/badge/%F0%9F%94%A5Pytorch-%23EE4C2C?style=for-the-badge)
-
-
-
-
-
-<!--  📉 Tableau  📊 Power BI 🤖 TensorFlow 🧠 Scikit-learn 📊 Pandas 📈 Matplotlib -->
-
-## Pinned Repositories ⭐📁
-
-[![EDA_BirdCLEF25](PortadaBirdClef.gif)](https://github.com/siouxi/EDA_BirdCLEF25)
-[![BlueCradle](BlueCradlePortada.gif)](https://github.com/siouxi/BlueCradle)
-[![Gliara](PGliara.gif)](https://github.com/siouxi/gliara)
-[![Gliara](MITRA.gif)](https://github.com/SIMG-UN/research-agent)
-
-## Contact 📬🌐
-
-You can find me on ![Linkedin](https://img.shields.io/badge/%F0%9F%A4%9DLinkedin-blue?style=for-the-badge&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fminicotina%2F)
- or on my ![Instagram](https://img.shields.io/badge/%F0%9F%93%B8%20Instagram-%23E1306C?style=for-the-badge&link=https%3A%2F%2Fwww.instagram.com%2Fminicotina%2F)
-. I’d love to connect! 🤝✨
+- Data Science  
+- Artificial Intelligence  
+- Neuroscience  
+- Machine Learning  
+- Big Data  
+- Bioinformatics  
+- Statistics  
+- Creative thinking  
 
 ---
 
-Thank you for visiting my profile! 😊🎉
+## Technologies I Use
 
+![Python](https://img.shields.io/badge/Python-2A6041?style=for-the-badge)  
+![R](https://img.shields.io/badge/R-EE4266?style=for-the-badge)  
+![SQL](https://img.shields.io/badge/SQL-2A1E5C?style=for-the-badge)  
+![NumPy](https://img.shields.io/badge/NumPy-0E131F?style=for-the-badge)  
+![Pandas](https://img.shields.io/badge/Pandas-FF5733?style=for-the-badge)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-2E86C1?style=for-the-badge)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge)  
+
+---
+
+## Pinned Repositories
+
+[![EDA_BirdCLEF25](PortadaBirdClef.gif)](https://github.com/siouxi/EDA_BirdCLEF25)  
+[![Gliara](PGliara.gif)](https://github.com/siouxi/gliara)  
+[![Research Agent](MITRA.gif)](https://github.com/SIMG-UN/research-agent)
+
+---
+
+## Contact
+
+You can find me on  
+[LinkedIn](https://www.linkedin.com/in/minicotina/)  
+or  
+[Instagram](https://www.instagram.com/minicotina/)
+
+I'm always open to connecting and collaborating.
+
+---
+
+Thank you for visiting my profile.
