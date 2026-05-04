@@ -1,5 +1,3 @@
-![Cover](portadita.jpg)
-
 ## About Me
 
 Hello, I'm **Nicolás Aranguren García**, a Statistics student at the National University of Colombia. I’m deeply interested in **Data Science**, **Artificial Intelligence**, and **Neuroscience**, and I’m consistently looking for ways to apply statistical thinking to real-world problems.
